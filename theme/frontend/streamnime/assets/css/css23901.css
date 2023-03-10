@@ -1,0 +1,28 @@
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YL5rulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sarabun/v8/DtVjJx26TKEr37c9WBI.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YK5sulw.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Sarabun';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/sarabun/v8/DtVmJx26TKEr37c9YLJvulw.ttf) format('truetype');
+}
