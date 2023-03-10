@@ -2,7 +2,11 @@
 <a href="https://github.com/Setiawan007/"><img src="https://raw.githubusercontent.com/Setiawan007/STREAMNIME/main/preview.png" alt="images-1" border="0"></a>
 
 ```bash
-Streamnime adalah source code website streaming anime, source code ini menggunakan bahasa pemograman php dan menggunakan Codeigniter3, source code ini ringan dan bisa di upload di hosting, kenapa ringan? karena website ini tidak menyimpan file video di hosting, melainkan menggunakan embed code atau pihak ketiga, jadi tidak akan membebani hosting kita.
+Streamnime adalah source code website streaming anime. 
+Source code ini menggunakan bahasa pemograman php dan menggunakan Codeigniter3. 
+Source code ini ringan dan bisa di upload di hosting.
+Kenapa ringan? karena website ini tidak menyimpan file video di hosting, 
+melainkan menggunakan embed code atau pihak ketiga, jadi tidak akan membebani hosting kita.
 Fitur : 
     Upload Anime (Series, Movie)
     Custom Tipe (TV,OVA,ONA dll)
