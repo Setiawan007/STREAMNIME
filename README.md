@@ -25,7 +25,8 @@ Sesuaikan pengaturan koneksi database di app/application/config/database.php
 ```
 ## Account Demo
 URL Admin: http://URL/admin
-<br>Email: admin@admin.com | Password: admin
+<br>Email: admin@admin.com 
+<br>Password: admin
 
 ## Support
 <a href="https://sociabuzz.com/setiawan007/support" target="_blank"><img src="https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="32px" alt="Sociabuzz"></a>
